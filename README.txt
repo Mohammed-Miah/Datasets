@@ -1,0 +1,1 @@
+This dataset looks at using the National Rail API to ingest Darwin Timetable data. Simple analysis such as bringing back TOC operators by Stations. Also looking at the ratio of operator use in comparison to all TOCs by Stations
