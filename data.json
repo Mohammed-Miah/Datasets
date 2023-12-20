@@ -1,0 +1,13 @@
+[
+{"StationID": "lul-northern_940gzzluegw_940gzzlubtk", "InboundScore":50, "OutboundScore":100, "Operator":"lul-northern"},
+{"StationID": "lul-northern_940gzzlubtk_940gzzlucnd", "InboundScore":50, "OutboundScore":100, "Operator":"lul-northern"},
+{"StationID": "lul-northern_940gzzluwfn_940gzzlufyc", "InboundScore":50, "OutboundScore":100, "Operator":"lul-northern"},
+{"StationID": "lul-northern_940gzzluksh_940gzzluctn", "InboundScore":50, "OutboundScore":100, "Operator":"lul-northern"},
+{"StationID": "lul-northern_940gzzluksx_940gzzluagl", "InboundScore":50, "OutboundScore":100, "Operator":"lul-northern"},
+{"StationID": "lul-northern_940gzzlulnb_940gzzlubor", "InboundScore":50, "OutboundScore":100, "Operator":"lul-northern"},
+{"StationID": "lul-northern_940gzzlugdg_940gzzlutcr", "InboundScore":50, "OutboundScore":100, "Operator":"lul-northern"},
+{"StationID": "lul-northern_940gzzluchx_940gzzluemb", "InboundScore":50, "OutboundScore":100, "Operator":"lul-northern"},
+{"StationID": "lul-northern_940gzzlugdg_940gzzlutcr", "InboundScore":50, "OutboundScore":100, "Operator":"lul-northern"},
+{"StationID": "lul-northern_940gzzlukng_940gzzneugst", "InboundScore":50, "OutboundScore":100, "Operator":"lul-northern"}
+
+]
